@@ -8,7 +8,7 @@ Interactive Python script that scrapes Yahoo Finance for the latest news article
 - Extracts article previews (up to 500 chars)
 - Saves to CSV with date, title, link, and preview
 
-## 📦 Requirements
+## Requirements
 - Python 3.7+
 - `requests`
 - `beautifulsoup4`
